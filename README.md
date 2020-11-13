@@ -1,5 +1,5 @@
 # blackjack
-Simple blackjack game - assignment for Python Programming course.
+Simple blackjack game - assignment for Python Programming course at UChicago.
 
 To run: In terminal, `cd` into the blackjack directory and type `ipython blackjack.py`.
 
